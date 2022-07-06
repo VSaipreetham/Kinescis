@@ -1,4 +1,4 @@
-# GestureController
+# Kinescis
 
 In this work mediapipe package has been used for the detection of the recognition of the hands and using those hands the hand tracking processing model has been made and using that hand processing model the applications of the gestures using the hand has been made some of the applications made in this work are mouse controller using mediapipe and autopy packages and volume controller using the pycaw and the mediapipe packages and the Hand quiz model which is used using the mediapipe package which helps to update the question and answers in the csv file which helps to make the question and answers in the comfortable way.
 
